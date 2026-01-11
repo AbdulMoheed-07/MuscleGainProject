@@ -1,16 +1,14 @@
-Muscle Gain Prediction Using Logistic Regression
-
 Table of Contents
-	1.	Project Overview
-	2.	Objective
-	3.	Dataset Description
-	4.	Methodology
-	5.	Requirements
-	6.	Installation
-	7.	Usage
-	8.	Results & Evaluation
-	9.	Conclusion
-	10.	References
+	1.	Project Overview￼
+	2.	Objective￼
+	3.	Dataset Description￼
+	4.	Methodology￼
+	5.	Requirements￼
+	6.	Installation￼
+	7.	Usage￼
+	8.	Results & Evaluation￼
+	9.	Conclusion￼
+	10.	References￼
 
 ⸻
 
@@ -139,5 +137,7 @@ The Logistic Regression model successfully predicts muscle gain based on workout
 ⸻
 
 References
-	1.	Scikit-learn Documentation
+	1.	Scikit-learn Documentation￼
 	2.	Géron, Aurélien. Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow.
+
+
