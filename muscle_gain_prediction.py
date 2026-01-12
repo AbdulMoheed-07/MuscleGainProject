@@ -13,6 +13,7 @@ data = {
 }
 
 df = pd.DataFrame(data)
+
 X = df.drop("Muscle_Gain", axis=1)
 y = df["Muscle_Gain"]
 
