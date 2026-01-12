@@ -1,7 +1,5 @@
-✅ Python Code File: dataset_table.py
 import pandas as pd
 
-# Create dataset description table
 data_description = {
     "Attribute": [
         "Workout_Minutes",
@@ -21,14 +19,6 @@ data_description = {
     ]
 }
 
-# Convert to DataFrame
 df = pd.DataFrame(data_description)
-
-# Display table
-print("\nDataset Feature Description Table:\n")
+df.to_csv("../data/dataset_description_table.csv", index=False)
 print(df)
-
-# Save table to CSV (optional)
-df.to_csv("dataset_description_table.csv", index=False)
-
-print("\nTable saved as 'dataset_description_table.csv'")
