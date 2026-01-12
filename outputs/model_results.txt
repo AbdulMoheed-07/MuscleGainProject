@@ -1,1 +1,11 @@
+accuracy_report:
 Model Accuracy: 0.88
+
+confusion_matrix:
+[[5 1]
+ [1 7]]
+
+classification_report:
+Precision, Recall, and F1-score values indicate
+strong performance of Logistic Regression model.
+
