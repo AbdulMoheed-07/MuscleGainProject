@@ -1,0 +1,7 @@
+Attribute,Description
+Workout_Minutes,Daily exercise duration (minutes)
+Protein_Intake,Daily protein intake (grams)
+Calories_Intake,Daily calorie consumption
+Sleep_Hours,Average sleep duration (hours)
+Training_Consistency,Training regularity score (1–6)
+Muscle_Gain,Target variable (0 = No, 1 = Yes)
