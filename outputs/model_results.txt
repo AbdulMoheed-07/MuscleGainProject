@@ -1,9 +1,1 @@
-Accuracy: 0.88
-
-Confusion Matrix:
-[[5 1]
- [1 7]]
-
-Classification Report:
-Precision, Recall, F1-score values show strong performance
-for muscle gain prediction.
+Model Accuracy: 0.88
